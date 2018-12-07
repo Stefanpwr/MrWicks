@@ -1,0 +1,64 @@
+/* Menu przyciskow */
+.MojeKonto{
+    position: absolute;
+    width: 100%;
+    height: 33%
+}
+.Pomoc{
+    position: absolute;
+    width: 100%;
+    height: 33%;
+    margin-top: 66.6%;
+}
+.Oferty{
+    position: absolute;
+    width: 100%;
+    height: 33%;
+    margin-top: 33.3%;
+}
+.navigation{
+    width: 20%;
+    height: 40%;
+    position: absolute;
+    top: 30%;
+    right: 5%;
+    margin: 0px;
+
+}
+/*Formularz */
+.formularz{
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    height: 40%;
+    width: 30%;
+
+}
+.mail{
+    font-family: 'Abril Fatface', cursive;
+}
+.pole{
+    font-family: 'Abril Fatface', cursive;
+}
+.inputEm{
+    color: black;
+    background-color: white;
+    border-style: none;
+    position: absolute;
+    top: 6%;
+    left: 15%;
+}
+.texarea{
+    position: absolute;
+    margin-left: 10px;
+}
+.sub{
+ position: absolute;
+    top: 90%;
+    left: 3%;
+}
+.res{
+ position: absolute;
+   top: 90%;
+    left: 17%;
+}

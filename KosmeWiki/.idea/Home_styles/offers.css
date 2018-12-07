@@ -1,0 +1,118 @@
+.ofertyBG{
+    width: 70%;
+    height: 600px;
+    margin-left: 4%;
+    margin-top: 4%;
+    margin-right: 4%;
+    margin-bottom: 4%;
+    border-style: solid;
+    border-width: 5px;
+    border-color: gray;
+}
+/*Rzesy */
+.rzesy{
+    width: 15%;
+    height: 33%;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.rzes{
+    color: gray;
+    font-size: medium;
+    position: absolute;
+    margin-top: 17.4%;
+    margin-left: 5%;
+}
+.rzesy:hover{
+    border-style: solid;
+    border-color: gray;
+    border-width: 5px;
+}
+/*Manicure */
+.manicc{
+    color: gray;
+    font-size: medium;
+    position: absolute;
+    margin-top: 37%;
+    margin-left: 5%;
+}
+.manic:hover{
+    border-style: solid;
+    border-color: gray;
+    border-width: 5px;
+}
+.manic{
+    width: 15%;
+    height: 33%;
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 10px;
+}
+/* Fryzjerstwo */
+.fryz{
+    width: 15%;
+    height: 33%;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 20%;
+}
+.fryzz{
+    color: gray;
+    font-size: medium;
+    position: absolute;
+    margin-top: 17.4%;
+    margin-left: 25%;
+}
+.fryz:hover{
+    border-style: solid;
+    border-color: gray;
+    border-width: 5px;
+}
+/*Pedicure */
+.pedic{
+    color: gray;
+    font-size: medium;
+    position: absolute;
+    margin-top: 37%;
+    margin-left: 25%;
+}
+.pedi:hover{
+    border-style: solid;
+    border-color: gray;
+    border-width: 5px;
+}
+.pedi{
+    width: 15%;
+    height: 33%;
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 20%;
+}
+/* Menu przyciskow */
+.MojeKonto{
+    position: absolute;
+    width: 100%;
+    height: 33%
+}
+.Pomoc{
+    position: absolute;
+    width: 100%;
+    height: 33%;
+    margin-top: 66.6%;
+}
+.Oferty{
+    position: absolute;
+    width: 100%;
+    height: 33%;
+    margin-top: 33.3%;
+}
+.navigation{
+    width: 20%;
+    height: 40%;
+    position: absolute;
+    top: 30%;
+    right: 5%;
+    margin: 0px;
+
+}
