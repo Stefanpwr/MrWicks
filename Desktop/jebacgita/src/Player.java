@@ -21,7 +21,7 @@ public class Player {
     public boolean sell_shares(){return true;}
     public boolean upgrade_factory(){return true;}
 
-
+    public void metodadosprawdzenia_czydzialagit(){}
 
     public static void main(String args[]){
 
